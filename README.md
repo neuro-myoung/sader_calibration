@@ -61,4 +61,4 @@ Alternatively see the GitHub [documentation](https://help.github.com/en/github/c
 If you want to contact me you can reach me at michael.young@duke.edu
 
 ## License
-This project uses an [MIT License](https://opensource.org/licenses/MIT)
+This project uses an [GPLv3 License](https://www.gnu.org/licenses/gpl-3.0.txt)
